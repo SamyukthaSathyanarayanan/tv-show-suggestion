@@ -1,2 +1,2 @@
 # tv-show-suggestion
-Created with CodeSandbox
+This application gives the top 5 Tv Series in different OTT platforms.
